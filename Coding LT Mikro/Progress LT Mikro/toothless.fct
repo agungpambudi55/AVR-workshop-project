@@ -1,0 +1,8 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"toothless.c" LINE:1237
+menubaru DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"toothless.c" LINE:1192
+menulama DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"toothless.c" LINE:1104
+inputnilai DSTACK_USAGE:10 DSTACK_LEVEL:10 FILE:"toothless.c" LINE:168
+inputnilai DSTACK_USAGE:10 DSTACK_LEVEL:20 FILE:"toothless.c" LINE:168
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:34 FILE:"C:\cvavreval\lib\stdio.lib" LINE:1410
+_print DSTACK_USAGE:20 DSTACK_LEVEL:54 FILE:"C:\cvavreval\lib\stdio.lib" LINE:503
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:56 FILE:"C:\cvavreval\lib\string.lib" LINE:1707

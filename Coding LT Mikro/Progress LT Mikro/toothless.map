@@ -1,0 +1,38 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+buf                                                               0x01F6       3
+buf2                                                              0x01F9       5
+buf3                                                              0x01FE      16
+data_sensor                                                       0x020E       8
+data_gelap                                                        0x0216       8
+data_terang                                                       0x021E       8
+s                                                                 0x0226       8
+last_error                                                        0x022E       2
+_base_y                                                           0x0230       4
+_lcd_y                                                            0x0234       1
+_lcd_maxx                                                         0x0235       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+data_ref                                                          0x0000      16
+gt                                                                0x0010       1
+inkec                                                             0x0011       1
+inkp                                                              0x0012       1
+inkd                                                              0x0013       1
+pilihstart                                                        0x0014       1
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+key                                                               R5           1
+key2                                                              R4           1
+sensor                                                            R7           1
+in_arah_kiri                                                      R6           1
+in_kec_kiri                                                       R9           1
+in_arah_kanan                                                     R8           1
+in_kec_kanan                                                      R11          1
+delay_belok                                                       R10          1
+last                                                              R13          1
+_lcd_x                                                            R12          1

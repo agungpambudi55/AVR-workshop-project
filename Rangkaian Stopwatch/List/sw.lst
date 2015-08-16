@@ -1,15 +1,4 @@
 
-AVRASM ver. 2.1.30  D:\Ngampus\Workspace\AVR\Rangkaian Stopwatch\program\List\sw.asm Fri Aug 28 23:49:34 2015
-
-D:\Ngampus\Workspace\AVR\Rangkaian Stopwatch\program\List\sw.asm(1072): warning: Register r5 already defined by the .DEF directive
-D:\Ngampus\Workspace\AVR\Rangkaian Stopwatch\program\List\sw.asm(1073): warning: Register r4 already defined by the .DEF directive
-D:\Ngampus\Workspace\AVR\Rangkaian Stopwatch\program\List\sw.asm(1074): warning: Register r7 already defined by the .DEF directive
-D:\Ngampus\Workspace\AVR\Rangkaian Stopwatch\program\List\sw.asm(1075): warning: Register r6 already defined by the .DEF directive
-D:\Ngampus\Workspace\AVR\Rangkaian Stopwatch\program\List\sw.asm(1076): warning: Register r9 already defined by the .DEF directive
-D:\Ngampus\Workspace\AVR\Rangkaian Stopwatch\program\List\sw.asm(1077): warning: Register r8 already defined by the .DEF directive
-D:\Ngampus\Workspace\AVR\Rangkaian Stopwatch\program\List\sw.asm(1078): warning: Register r11 already defined by the .DEF directive
-D:\Ngampus\Workspace\AVR\Rangkaian Stopwatch\program\List\sw.asm(1079): warning: Register r10 already defined by the .DEF directive
-                 
                  
                  ;CodeVisionAVR C Compiler V2.05.3 Standard
                  ;(C) Copyright 1998-2011 Pavel Haiduc, HP InfoTech s.r.l.
